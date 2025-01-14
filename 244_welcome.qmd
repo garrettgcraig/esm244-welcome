@@ -6,3 +6,8 @@ editor: visual
 
 ## Garrett Craig
 
+```{r}
+library(tidyverse)
+print("this")
+```
+
